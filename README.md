@@ -19,7 +19,7 @@ Go to REMIX:
 Create new contract name (MeteToken) 
 Remix will create new file "MetaToken.sol"
 code:
-<code>
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
@@ -158,7 +158,7 @@ library SafeMath {
         uint256 c = a - b;
         return c;
     }
-}</code>
+}
 
 Step 4:
 Go to Compiler tab:
