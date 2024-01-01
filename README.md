@@ -8,9 +8,13 @@ Token Symbol : Meta
 Step 1:
 Open your metamask add Redbelly Devnet :
 Network Name: Devnet Redbelly
+
 RPC URL: [https://rbn-gcp-us-east5-a-0-b.devnet.redbelly.network:8545/](https://rbn-gcp-australia-southeast1-a-0-b-v2.devnet.redbelly.network:8545)
+
 ChainID: 152
+
 Currency Symbol: RBNT
+
 Block explorer URL: [https://explorer.devnet.redbelly.network](https://explorer.devnet.redbelly.network)
 
 Step 2: 
